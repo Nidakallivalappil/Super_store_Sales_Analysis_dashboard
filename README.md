@@ -1,5 +1,4 @@
 # Super_store_Sales_Analysis_dashboard
-# Super Store Sales Analysis Dashboard 📊
 
 ## 📌 Project Overview
 The **Super Store Sales Analysis Dashboard** is an interactive data visualization project developed using Tableau. It analyzes sales performance, regional trends, product performance, logistics operations, and customer behavior to generate meaningful business insights and support data-driven decision-making.
